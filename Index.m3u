@@ -55,30 +55,27 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTINF:-0, AD DRAMA
 #EXTGRP:ARABIC
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-0, AD SPORTS 1
+#EXTINF:-0,AD SPORTS 1
 #EXTGRP:ARABIC
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-0, AD SPORTS 2
+#EXTINF:-0,AD SPORTS 2
 #EXTGRP:ARABIC
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-0, AD SPORTS 3
+#EXTINF:-0,AD SPORTS 3
 #EXTGRP:ARABIC
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-0, AD SPORTS 4
+#EXTINF:-0,AD SPORTS 4
 #EXTGRP:ARABIC
 https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-#EXTINF:-0, &FLIX
+#EXTINF:-0,&FLIX
 #EXTGRP:INDIA
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-0, &PRIVE
+#EXTINF:-0,&PRIVE
 #EXTGRP:INDIA
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-0, 1+1
+#EXTINF:-0,1+1
 #EXTGRP:UKRAINE
 https://live-k2303-kbp.1plus1.video/live/1617655231/2MN-ciom4ek7rmRMWt5Rlg/184723/smil:184723.smil/chunklist_b4628000.m3u8
-#EXTINF:-0, 112
+#EXTINF:-0,112
 #EXTGRP:UKRAINE
 https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
-
-
-
