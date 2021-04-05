@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-0, CT1
+#EXTGRP:CZECH
+http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
