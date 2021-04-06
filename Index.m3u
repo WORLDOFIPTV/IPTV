@@ -75,7 +75,19 @@ https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-0,ABU DHABI TV
 #EXTGRP:ARABIC
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-0,ALAAN
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-0,ALDAFRA
 #EXTGRP:ARABIC
-https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-0,EMARAT
+#EXTGRP:ARABIC
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-0,ALARABIYA ALHADATH
+#EXTGRP:ARABIC
+https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
+#EXTINF:-0,SHARQIYA FROM KALBA
+#EXTGRP:ARABIC
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-0,ALWOSTA
+#EXTGRP:ARABIC
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
