@@ -282,3 +282,18 @@ http://141.136.14.18/kanal1/kanal1.m3u8
 #EXTINF:-0,BULGARIA ON AIR
 #EXTGRP:BULGARIA
 http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
+#EXTINF:-0,BAHRAIN INTERNATIONAL
+#EXTGRP:ARABIC
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
+#EXTINF:-0,BAHRAIN QURAN
+#EXTGRP:ARABIC
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Quran_all/playlist.m3u8
+#EXTINF:-0,BAHRAIN SPORTS
+#EXTGRP:ARABIC
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1BAHRAIN SPORTS 2
+#EXTGRP:ARABIC
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+#EXTINF:-0,BAHRAIN TV
+#EXTGRP:ARABIC
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
