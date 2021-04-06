@@ -91,3 +91,20 @@ https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
 #EXTINF:-0,ALWOSTA
 #EXTGRP:ARABIC
 https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-0,CITRUSSTV
+#EXTGRP:ARABIC
+https://citrusstv.akamaized.net/hls/live/687285/CTV/index.m3u8
+#EXTINF:-0,DUBAI ONE
+#EXTGRP:ARABIC
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-0,DUBAI RACING
+#EXTGRP:ARABIC
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-0,DUBAI RACING 2
+#EXTGRP:ARABIC
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-0, DUBAI RACING 3
+#EXTGRP:ARABIC
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+
+
