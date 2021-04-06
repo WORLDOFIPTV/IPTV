@@ -201,3 +201,34 @@ http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-0,EUROAL
 #EXTGRP:ALBANIA
 http://5.135.92.131:1935/live/euroAl/chunklist.m3u8
+#EXTINF:-0,NEWS 24
+#EXTGRP:ALBANIA
+http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+#EXTINF:-0,ORA NEWS
+#EXTGRP:ALBANIA
+https://tv.oranews.tv/live/ora/index.m3u8
+#EXTINF:-0,RTSH1 
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
+#EXTINF:-0,RTSH2
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com:80/rtsh2hd1/index.m3u8
+#EXTINF:-0,RTSH24
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com:80/rtsh24/index.m3u8
+#EXTINF:-0,RTSH3
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com:80/rtsh3hd1/index.m3u8
+#EXTINF:-0,RTSH FILM
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com:80/rtshfilm1/index.m3u8
+#EXTINF:-0,RTSH MUSIC
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com/rtshmsicweb/index.m3u8
+#EXTINF:-0,RTSH SHQIP
+#EXTGRP:ALBANIA
+http://edge01eu.ekranet.com/rtshshqip1/index.m3u8
+#EXTINF:-0,RTSH SPORT
+#EXTGRP:SPORTS
+http://edge01eu.ekranet.com:80/rtshsport_240p/index.m3u8
+
