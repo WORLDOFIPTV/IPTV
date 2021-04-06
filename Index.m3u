@@ -108,3 +108,19 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
 
+#EXTINF:-0,DUBAI SPORTS
+#EXTGRP:ARABIC
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-0, DUBAI SPORTS 2
+#EXTGRP:ARABIC
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-0,DUBAI SORTS 3
+#EXTGRP:ARABIC
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-0,DUBAI TV
+#EXTGRP:ARABIC
+https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1DUBAI ZAMAN
+#EXTGRP:ARABIC
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+
