@@ -243,3 +243,12 @@ http://edge01eu.ekranet.com/tematv_720p/index.m3u8
 #EXTINF:-0,TV7
 #EXTGRP:ALBANIA
 http://media.az-mediaserver.com:1935/7064/7064/playlist.m3u8
+#EXTINF:-0,REDBULL TV
+#EXTGRP:SPORTS
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+EXTINF:-0, ORF1
+#EXTGRP:AUSTRIA
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest.m3u8
+#EXTINF:-0,ORF2
+#EXTGRP:AUSTRIA
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest.m3u8
