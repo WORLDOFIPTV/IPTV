@@ -106,7 +106,6 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 #EXTINF:-0, DUBAI RACING 3
 #EXTGRP:ARABIC
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
-
 #EXTINF:-0,DUBAI SPORTS
 #EXTGRP:SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
@@ -175,9 +174,12 @@ https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunk
 #EXTINF:-0,SHARJAH TV 2
 #EXTGRP:ARABIC
 https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
-#EXTINF:-0, SHARJAH SPORTS
+#EXTINF:-0,SHARJAH SPORTS
 #EXTGRP:SPORTS
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
-#EXTINF:-SHARJAH TV
+#EXTINF:-0,SHARJAH TV
 #EXTGRP:ARABIC
 https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-0,YAS TV
+#EXTGRP:SPORTS
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
