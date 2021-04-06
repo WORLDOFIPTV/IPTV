@@ -35,7 +35,7 @@ https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
 #EXTGRP:SPAIN
 https://rtvelivestream.akamaized.net/la2_dvr_4000.m3u8
 #EXTINF:-0, 24H
-#EXTGRP:SPAIN
+#EXTGRP:NEWS
 https://rtvelivestream.akamaized.net/24h_dvr_4000.m3u8
 #EXTINF:-0, CT1
 #EXTGRP:CZECH
@@ -50,16 +50,16 @@ https://videos.rtva.ad/live/rtva/playlist.m3u8
 #EXTGRP:ARABIC
 https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,AD SPORTS 1
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,AD SPORTS 2
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,AD SPORTS 3
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,AD SPORTS 4
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://admdn4ta.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,&FLIX
 #EXTGRP:INDIA
@@ -68,10 +68,10 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTGRP:INDIA
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
 #EXTINF:-0,112
-#EXTGRP:UKRAINE
+#EXTGRP:NEWS
 https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
 #EXTINF:-0,ALARABIYA
-#EXTGRP:ARABIC
+#EXTGRP:NEWS
 https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
 #EXTINF:-0,ABU DHABI TV
 #EXTGRP:ARABIC
@@ -83,7 +83,7 @@ https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
 #EXTGRP:ARABIC
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,ALARABIYA ALHADATH
-#EXTGRP:ARABIC
+#EXTGRP:NEWS
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-0,SHARQIYA FROM KALBA
 #EXTGRP:ARABIC
@@ -107,15 +107,14 @@ https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m
 #EXTGRP:ARABIC
 https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 
-
 #EXTINF:-0,DUBAI SPORTS
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
 #EXTINF:-0, DUBAI SPORTS 2
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-0,DUBAI SORTS 3
-#EXTGRP:ARABIC
+#EXTGRP:SPORTS
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
 #EXTINF:-0,DUBAI TV
 #EXTGRP:ARABIC
@@ -124,10 +123,9 @@ https://dmisxthvll.cdn.mangomolo.com/dubaitv/smil:dubaitv.stream.smil/playlist.m
 #EXTGRP:ARABIC
 https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
 #EXTINF:-0,MAJID TV
-#EXTGRP:ARABIC
+#EXTGRP:KIDS
 https://admdn4.cdn.mangomolo.com/majid/smil:majid.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 #EXTINF:-0,MBC 1
-
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 #EXTINF:-0,MBC 2
 #EXTGRP:ARABIC
@@ -168,4 +166,18 @@ https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c3969
 #EXTINF:-0,MBC+DRAMA
 #EXTGRP:ARABIC
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-
+#EXTINF:-0,AD NATGEO
+#EXTGRP:DOCUMENTARY
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+#EXTINF:-0,SAMA DUBAI
+#EXTGRP:ARABIC
+https://dmieigthvll.cdn.mangomolo.com/samadubai/smil:samadubai.stream.smil/chunklist.m3u8
+#EXTINF:-0,SHARJAH TV 2
+#EXTGRP:ARABIC
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-0, SHARJAH SPORTS
+#EXTGRP:SPORTS
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-SHARJAH TV
+#EXTGRP:ARABIC
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
