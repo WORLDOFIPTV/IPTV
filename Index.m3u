@@ -28,12 +28,6 @@ https://liveopencloud.siliconweb.com/1/ZlRza2R6L2tFRnFJ/eWVLSlQx/hls/live/playli
 #EXTINF:-0,BOYAH
 #EXTGRP: GREECE
 https://streamer-cache.grnet.gr/parliament/hls/webtv.m3u8
-#EXTINF:-0,BOYAH2
-#EXTGRP: GREECE
-https://streamer-cache.grnet.gr/parliament/hls/webtv2.m3u8
-#EXTINF:-0,BOYAH3
-#EXTGRP: GREECE
-https://streamer-cache.grnet.gr/parliament/hls/webtv3.m3u8
 #EXTINF:-0, LA1
 #EXTGRP:SPAIN
 https://rtvelivestream.akamaized.net/la1_dvr_4000.m3u8
@@ -73,9 +67,15 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-0,&PRIVE
 #EXTGRP:INDIA
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-0,1+1
-#EXTGRP:UKRAINE
-https://live-k2303-kbp.1plus1.video/live/1617655231/2MN-ciom4ek7rmRMWt5Rlg/184723/smil:184723.smil/chunklist_b4628000.m3u8
 #EXTINF:-0,112
 #EXTGRP:UKRAINE
 https://app.live.112.events/hls-ua/112hd_mid/index.m3u8
+#EXTINF:-0,ALARABIYA
+#EXTGRP:ARABIC
+https://shls-alarabiya-prod-dub.shahid.net/out/v1/f5f319206ed740f9a831f2097c2ead23/index.m3u8
+#EXTINF:-0,ABU DHABI TV
+#EXTGRP:ARABIC
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-0,ALAAN
+#EXTGRP:ARABIC
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
