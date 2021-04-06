@@ -261,3 +261,24 @@ https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-0,ABC
 #EXTGRP:AUSTRALIA
 https://c.mjh.nz/101002510251/
+#EXTINF:-0,ABC 2
+#EXTGRP:AUSTRALIA
+https://c.mjh.nz/abc2/
+#EXTINF:-0,ABC KIDS
+#EXTGRP:KIDS
+https://c.mjh.nz/101002210222/
+#EXTINF:-0,ABC NEWS
+#EXTGRP:AUSTRALIA
+http://51.195.88.12:4050/live/abcnewsmob/playlist.m3u8
+#EXTINF:-0,B1
+#EXTGRP:BOSNIA
+http://wowza.bihnet.net:88/hls/b1-live.m3u8
+#EXTINF:-0,RTB
+#EXTGRP:AFRICA
+https://edge8.vedge.infomaniak.com/livecast/ik:rtbtvlive1/chunklist_w1633876581.m3u8
+#EXTINF:-0,TV+
+#EXTGRP:BULGARIA
+http://141.136.14.18/kanal1/kanal1.m3u8
+#EXTINF:-0,BULGARIA ON AIR
+#EXTGRP:BULGARIA
+http://ios.cdn.bg:2006/fls/bonair.stream/playlist.m3u8
